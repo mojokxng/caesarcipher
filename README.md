@@ -1,8 +1,8 @@
 /*
- * Student Name: Isaac Adams
+ * Student Name: 
  * Course: COSC 4553
  * Assignment: 1
- * File name: Adams1.cpp
+ * File name: main.cpp
  * Program Purpose: Encrypts and decrypts a text file using a simple arithmetic cipher
  * and a nonnegative integer key no more than 120
  *
